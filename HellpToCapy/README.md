@@ -1,4 +1,8 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Mehranalam/Quera/main/HellpToCapy/HelpCapy.jpg">
-  <p><i>https://quera.ir/problemset/contest/8838/</i></p>
-  </div>
+## Help to capy
+
+#1 problem from quera you can see problem from [here](https://quera.ir/problemset/contest/8838/).
+
+- `src`: the folder to maintain sources
+- `lib`: the folder to maintain dependencies
+
+Meanwhile, the compiled output files will be generated in the `bin` folder by default.
