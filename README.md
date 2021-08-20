@@ -6,7 +6,7 @@
 
 <h3 style="text-align: right;direction: rtl;" dir="rtl">🔰 بخش های مختلف</h3>
 <ul dir="rtl">
-    <li dir="rtl" style="text-align: right;direction: rtl;"><a dir="rtl" target="_blank" href="https://laravelguide.ir#artisan">💠
+    <li dir="rtl" style="text-align: right;direction: rtl;"><a dir="rtl" target="_blank" href="https://github.com/Mehranalam/Quera/tree/main/HellpToCapy">💠
 کمک به کاپی</a></li>
 </ul>
 
