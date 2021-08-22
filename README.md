@@ -8,6 +8,7 @@
 <ul dir="rtl">
     <li dir="rtl" style="text-align: right;direction: rtl;"><a dir="rtl" target="_blank" href="https://github.com/Mehranalam/Quera/tree/main/HellpToCapy">💠
       کمک به کاپی</a></li> <li dir="rtl" style="text-align: right;direction: rtl;"><a dir="rtl" target="_blank" href="https://github.com/Mehranalam/Quera/tree/main/StringCrypting">💠
-دنیای پولیمورفیزم</a></li>
+دنیای پولیمورفیزم</a></li><li dir="rtl" style="text-align: right;direction: rtl;"><a dir="rtl" target="_blank" href="https://github.com/Mehranalam/Problems/tree/main/MangingBillsBurgers">💠
+کمک به بیل برای اداره مغازه اش با قدرت شی گرایی</a></li>
 </ul>
 
