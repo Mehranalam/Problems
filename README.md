@@ -10,6 +10,7 @@
       کمک به کاپی</a></li> <li dir="rtl" style="text-align: right;direction: rtl;"><a dir="rtl" target="_blank" href="https://github.com/Mehranalam/Quera/tree/main/StringCrypting">💠
 دنیای پولیمورفیزم</a></li><li dir="rtl" style="text-align: right;direction: rtl;"><a dir="rtl" target="_blank" href="https://github.com/Mehranalam/Problems/tree/main/MangingBillsBurgers">💠
 کمک به بیل برای اداره مغازه اش با قدرت شی گرایی</a></li><li dir="rtl" style="text-align: right;direction: rtl;"><a dir="rtl" target="_blank" href="https://github.com/Mehranalam/Fibonacci-SEN/tree/main/JAVA">💠
+دنباله فیبوناچی و جمع اعداد زوجش تا هرجا</a></li><li dir="rtl" style="text-align: right;direction: rtl;"><a dir="rtl" target="_blank" href="https://github.com/Mehranalam/Fibonacci-SEN/tree/main/JAVA">💠
 دنباله فیبوناچی و جمع اعداد زوجش تا هرجا</a></li>
 </ul>
 
