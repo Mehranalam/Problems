@@ -5,6 +5,7 @@ import java.util.Scanner;
 
 public class Contact {
     private ArrayList<String> contactStore = new ArrayList<String>();
+    private ArrayList<String> numberStore = new ArrayList<String>();
     private Scanner inputHandler = new Scanner(System.in);
 
     public void showContacts() {
@@ -20,7 +21,15 @@ public class Contact {
     }
 
     public void addNewContact(String item) {
-        contactStore.add(item);
+        // please add name and number phone with this pattern >> NAME : NUMBER
+        // such as mehran : +989211756034
+        String[] data = item.split(" : ");
+        if (data.length > 1){
+            contactStore.add(item);
+        } else {
+            System.out.println("ignore data ... !!!");
+        }
+
     }
 
     public void updateContact() {
