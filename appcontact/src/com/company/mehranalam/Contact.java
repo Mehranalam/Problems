@@ -9,42 +9,49 @@ public class Contact {
     private Scanner inputHandler = new Scanner(System.in);
 
     public void showContacts() {
-        if (contactStore.size() > 0) {
+        System.out.println(numberStore);
+        System.out.println(contactStore);
+        if (contactStore.size() > 0 && numberStore.size() > 0) {
             for (int i = 0; i < contactStore.size(); i++) {
 
                 String element = contactStore.get(i);
-                System.out.println(i + ". " + element);
+                String numberPhoneElement = numberStore.get(i);
+                System.out.println(i + ". " + element+" ; number phone is "+ numberPhoneElement);
             }
         } else {
             System.out.println("this Array in now **Empty** ....");
         }
     }
 
-    public void addNewContact(String item) {
+    public void addNewContact() {
         // please add name and number phone with this pattern >> NAME : NUMBER
         // such as mehran : +989211756034
-        String[] data = item.split(" : ");
-        if (data.length > 1){
-            contactStore.add(item);
-        } else {
-            System.out.println("ignore data ... !!!");
-        }
+        System.out.print("Please Enter your add new name of Contact : ");
+        String newItem = inputHandler.nextLine();
+        System.out.print("Please Enter your add new number of Contact : ");
+        String newNumberPhone = inputHandler.nextLine();
+        numberStore.add(newNumberPhone);contactStore.add(newItem);
 
     }
 
     public void updateContact() {
-        System.out.println("Please Enter **old** Contact : ");
+        System.out.println("Please Enter **old** name Contact : ");
         String oldItem = inputHandler.next();
-        System.out.println("Please Enter new Contact : ");
+        System.out.println("Please Enter new name Contact : ");
         String newItem = inputHandler.next();
+        System.out.println("Please Enter new numberPhone Contact : ");
+        String numberPhone = inputHandler.next();
         int index = contactStore.indexOf(oldItem);
         contactStore.remove(index);
+        numberStore.remove(index);
         contactStore.add(index, newItem);
+        numberStore.add(index , numberPhone);
     }
 
     public void removeContact(String item) {
         int index = contactStore.indexOf(item);
         contactStore.remove(index);
+        numberStore.remove(index);
     }
 
     public void SearchContact() {
@@ -52,10 +59,11 @@ public class Contact {
         String contact = inputHandler.next();
 
         int is_already = contactStore.indexOf(contact);
+        String numberPhone = numberStore.get(is_already);
         if (is_already < 0) {
-            System.out.println(contact + " not found ...");
+            System.out.println(contact +" not found ...");
         } else {
-            System.out.println(contact + " 1 found this element already ..");
+            System.out.println(contact +" >> "+numberPhone+ "found this element already ..");
         }
     }
 }

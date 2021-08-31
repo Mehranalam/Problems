@@ -21,30 +21,23 @@ public class MobilePhone extends Contact{
                     showContacts();
                     System.out.println("Please Enter your number choose : ");
                     choose = inputUser.nextInt();
-                    inputUser.nextLine();
                     break;
                 case 3:
-                    System.out.println("Please Enter your add new Contect : ");
-                    String newItem = inputUser.nextLine();
-                    inputUser.nextLine();
-                    super.addNewContact(newItem);
+                    addNewContact();
                     System.out.println("Please Enter your number choose : ");
                     choose = inputUser.nextInt();
-                    inputUser.nextLine();
                     break;
                 case 4:
                     super.updateContact();
                     System.out.println("Please Enter your number choose : ");
                     choose = inputUser.nextInt();
-                    inputUser.nextLine();
                     break;
                 case 5:
-                    System.out.println("Please Enter Element for remove : ");
+                    System.out.println("Please Enter name of contact for remove : ");
                     String item = inputUser.nextLine();
                     super.removeContact(item);
                     System.out.println("Please Enter your number choose : ");
                     choose = inputUser.nextInt();
-                    inputUser.nextLine();
                     break;
                 case 6:
                     super.SearchContact();
