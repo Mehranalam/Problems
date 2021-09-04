@@ -15,6 +15,7 @@
 سرو ته کردن یه لیست شایدم عدد یا حتی یه جمله!</a></li><li dir="rtl" style="text-align: right;direction: rtl;"><a dir="rtl" target="_blank" href="https://github.com/Mehranalam/Problems/tree/main/MinArray">💠
  پیدا کردن کوچولو ترین عضو یک لیست</a></li><li dir="rtl" style="text-align: right;direction: rtl;"><a dir="rtl" target="_blank" href="https://github.com/Mehranalam/Problems/tree/main/BuyingList">💠
  یادمون نره تا خرید هامونو لیست کنیم</a></li><li dir="rtl" style="text-align: right;direction: rtl;"><a dir="rtl" target="_blank" href="https://github.com/Mehranalam/Problems/tree/main/appcontact">💠
- گشتن دنبال مخاطبین مادربزرگ</a></li>
+ گشتن دنبال مخاطبین مادربزرگ</a></li><li dir="rtl" style="text-align: right;direction: rtl;"><a dir="rtl" target="_blank" href="https://github.com/Mehranalam/Problems/tree/main/MusicAppt">💠
+ شبیه سازی یه اپ موزیک پلیر</a></li
 </ul>
 
