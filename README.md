@@ -17,8 +17,7 @@
  گشتن دنبال مخاطبین مادربزرگ</a></li><li dir="rtl" style="text-align: right;direction: rtl;"><a dir="rtl" target="_blank" href="https://github.com/Mehranalam/Problems/tree/main/MusicApp">💠
  شبیه سازی یه اپ موزیک پلیر</a></li
 </ul>
-
-<h3 style="text-align: right;direction: rtl;" dir="rtl">🔰 ابزار های مورد استفاده</h3>
+<h3 style="text-align: right;direction: rtl;" dir="rtl">🔨 ابزار های مورد استفاده</h3>
   
   <div align="right">
   </div>
