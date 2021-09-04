@@ -1,6 +1,5 @@
 <h1 style="text-align: right;direction: rtl;" dir="rtl">حل مشکل جاوایی</h1>
-<div align="right">
-  </div>
+
 <p style="text-align: right;direction: rtl;" dir="rtl">عموما آموزش کل فرایند یادگیری نیست و تمرین عموما بهترین راه تثبیت هستش</p>
 
 
@@ -19,3 +18,8 @@
  شبیه سازی یه اپ موزیک پلیر</a></li
 </ul>
 
+<h3 style="text-align: right;direction: rtl;" dir="rtl">🔰 ابزار های مورد استفاده</h3>
+  
+  <div align="right">
+  </div>
+  
