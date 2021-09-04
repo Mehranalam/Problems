@@ -1,6 +1,6 @@
 <h1 style="text-align: right;direction: rtl;" dir="rtl">حل مشکل جاوایی</h1>
 <div align="right">
-    <img src="https://img.shields.io/badge/Java-black?style=flat-square&logo=idea&logoColor=dark&link=https://www.github.com/mehranalam/problems/"> <img src="https://img.shields.io/badge/intelijidea-black?style=flat-square&logo=java&logoColor=dark&link=https://www.github.com/mehranalam/problems/">
+    <img src="https://img.shields.io/badge/Java-black?style=flat-square&logo=idea&logoColor=dark&link=https://www.github.com/mehranalam/problems/"> <img src="https://img.shields.io/badge/intelijidea-black?style=flat-square&logo=java&logoColor=black&link=https://www.github.com/mehranalam/problems/">
     </div>
 <p style="text-align: right;direction: rtl;" dir="rtl">عموما آموزش کل فرایند یادگیری نیست و تمرین عموما بهترین راه تثبیت هستش</p>
 
