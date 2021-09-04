@@ -20,5 +20,6 @@
 <h3 style="text-align: right;direction: rtl;" dir="rtl">🔨 ابزار های مورد استفاده</h3>
   
   <div align="right">
+      <img src="https://raw.githubusercontent.com/Mehranalam/Mehranalam/main/assets/icons/intellij.png">
   </div>
   
