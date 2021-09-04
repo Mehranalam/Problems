@@ -1,5 +1,7 @@
 <h1 style="text-align: right;direction: rtl;" dir="rtl">حل مشکل جاوایی</h1>
-
+<div align="right">
+    <img src="https://img.shields.io/badge/Java-black?style=flat-square&logo=java&logoColor=white&link=https://www.github.com/mehranalam/problems/"> <img src="https://img.shields.io/badge/Java-black?style=flat-square&logo=intelijidea&logoColor=white&link=https://www.github.com/mehranalam/problems/">
+    </div>
 <p style="text-align: right;direction: rtl;" dir="rtl">عموما آموزش کل فرایند یادگیری نیست و تمرین عموما بهترین راه تثبیت هستش</p>
 
 
@@ -17,11 +19,4 @@
  گشتن دنبال مخاطبین مادربزرگ</a></li><li dir="rtl" style="text-align: right;direction: rtl;"><a dir="rtl" target="_blank" href="https://github.com/Mehranalam/Problems/tree/main/MusicApp">💠
  شبیه سازی یه اپ موزیک پلیر</a></li
 </ul>
-<h3 style="text-align: right;direction: rtl;" dir="rtl">🔨 ابزار های مورد استفاده</h3>
-  
-  <div align="center">
-      <img src="https://raw.githubusercontent.com/Mehranalam/Mehranalam/main/assets/icons/intellij.png">
-      <img src="https://raw.githubusercontent.com/Mehranalam/Mehranalam/main/assets/icons/java.png">
-      
-  </div>
   
