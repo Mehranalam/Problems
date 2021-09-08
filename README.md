@@ -15,6 +15,10 @@
  پیدا کردن کوچولو ترین عضو یک لیست</a></li><li dir="rtl" style="text-align: right;direction: rtl;"><a dir="rtl" target="_blank" href="https://github.com/Mehranalam/Problems/tree/main/BuyingList">💠
  یادمون نره تا خرید هامونو لیست کنیم</a></li><li dir="rtl" style="text-align: right;direction: rtl;"><a dir="rtl" target="_blank" href="https://github.com/Mehranalam/Problems/tree/main/appcontact">💠
  گشتن دنبال مخاطبین مادربزرگ</a></li><li dir="rtl" style="text-align: right;direction: rtl;"><a dir="rtl" target="_blank" href="https://github.com/Mehranalam/Problems/tree/main/MusicApp">💠
- شبیه سازی یه اپ موزیک پلیر</a></li
+    شبیه سازی یه اپ موزیک پلیر</a></li>
 </ul>
-  
+
+<h3 style="text-align: right;direction: rtl;" dir="rtl">🔰نکات مهم</h3>    
+<ul dir="rtl">
+    <li dir="rtl" style="text-align: right;direction: rtl;"><a dir="rtl" target="_blank" href="https://stackoverflow.com/questions/156767/whats-the-difference-between-an-argument-and-a-parameter">💠
+    فرق بین آرگومان و پارامتر</a></li>
