@@ -21,4 +21,5 @@
 <h3 style="text-align: right;direction: rtl;" dir="rtl">🔰نکات مهم</h3>    
 <ul dir="rtl">
     <li dir="rtl" style="text-align: right;direction: rtl;"><a dir="rtl" target="_blank" href="https://stackoverflow.com/questions/156767/whats-the-difference-between-an-argument-and-a-parameter">💠
-    فرق بین آرگومان و پارامتر</a></li>
+    فرق بین آرگومان و پارامتر</a></li><li dir="rtl" style="text-align: right;direction: rtl;"><a dir="rtl" target="_blank" href="https://www.thoughtco.com/method-signature-2034235">💠
+    منظور از سیگنیچر چیست</a></li>
