@@ -16,8 +16,7 @@
  یادمون نره تا خرید هامونو لیست کنیم</a></li><li dir="rtl" style="text-align: right;direction: rtl;"><a dir="rtl" target="_blank" href="https://github.com/Mehranalam/Problems/tree/main/appcontact">💠
  گشتن دنبال مخاطبین مادربزرگ</a></li><li dir="rtl" style="text-align: right;direction: rtl;"><a dir="rtl" target="_blank" href="https://github.com/Mehranalam/Problems/tree/main/MusicApp">💠
     شبیه سازی یه اپ موزیک پلیر</a></li><li dir="rtl" style="text-align: right;direction: rtl;"><a dir="rtl" target="_blank" href="https://github.com/Mehranalam/Problems/tree/main/musicAppwithInnerclass">💠
-    نوشتن دوباره اپ موزیک با استفاده از inner classes</a></li>
-</ul><li dir="rtl" style="text-align: right;direction: rtl;"><a dir="rtl" target="_blank" href="https://github.com/Mehranalam/Problems/tree/main/decode">💠
+    نوشتن دوباره اپ موزیک با استفاده از inner classes</a></li><li dir="rtl" style="text-align: right;direction: rtl;"><a dir="rtl" target="_blank" href="https://github.com/Mehranalam/Problems/tree/main/decode">💠
     کریپتینگ یک رشته</a></li>
 </ul>
 
