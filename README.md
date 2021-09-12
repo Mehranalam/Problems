@@ -17,6 +17,8 @@
  گشتن دنبال مخاطبین مادربزرگ</a></li><li dir="rtl" style="text-align: right;direction: rtl;"><a dir="rtl" target="_blank" href="https://github.com/Mehranalam/Problems/tree/main/MusicApp">💠
     شبیه سازی یه اپ موزیک پلیر</a></li><li dir="rtl" style="text-align: right;direction: rtl;"><a dir="rtl" target="_blank" href="https://github.com/Mehranalam/Problems/tree/main/musicAppwithInnerclass">💠
     نوشتن دوباره اپ موزیک با استفاده از inner classes</a></li>
+</ul>https://github.com/Mehranalam/Problems/tree/main/decode<li dir="rtl" style="text-align: right;direction: rtl;"><a dir="rtl" target="_blank" href="https://github.com/Mehranalam/Problems/tree/main/decode">💠
+    کریپتینگ یک رشته</a></li>
 </ul>
 
 <h3 style="text-align: right;direction: rtl;" dir="rtl">🔰نکات مهم</h3>    
