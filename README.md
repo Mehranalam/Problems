@@ -1,4 +1,4 @@
-<h1 style="text-align: right;direction: rtl;" dir="rtl">حل مشکل جاوایی</h1>
+<h1 style="text-align: right;direction: rtl;" dir="rtl">LearnJava</h1>
 
 <h3 style="text-align: right;direction: rtl;" dir="rtl">🔰 بخش های مختلف</h3>
 <ul dir="rtl">
